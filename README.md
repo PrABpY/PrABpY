@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+  I'm Prab an data engineer 
+  I’m currently learning KKU Thailand 🇹🇭
 <!--
 **PrABpY/PrABpY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
