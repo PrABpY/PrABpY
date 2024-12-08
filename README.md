@@ -1,6 +1,6 @@
 ### Hi there 👋
-  I'm Prabda, an Artificial Intelligence Engineer  <br>
-  Automation Robotics and Intelligence system
+  I'm Prabda, or you can call me PrABpY. I am an Artificial Intelligence Engineer.  <br>
+  Automation Robotics and Intelligence Systems <br>
   Engineering KKU
 <!--
 **PrABpY/PrABpY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
