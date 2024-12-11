@@ -2,10 +2,6 @@
 <h3 align="center">Artificial Intelligence Engineer.</h3>
 <h3 align="center">Automation Robotics and Intelligence Systems</h3>
 
-<p align="center">
-  <img src="https://github.com/Matrix278/Matrix278/raw/output/ocean.gif" alt="snake">
-</p>
-
   ### EXPERIENCE
   *	PLC Competition 2021 Training and competition in using PLC from Mitsubishi Company. 
   *	AIEI X Lotus's Hackathon 2022 Application To meet customers' needs when using the service.
