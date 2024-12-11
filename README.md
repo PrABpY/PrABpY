@@ -1,7 +1,10 @@
-  # Mr. Prabda Rueangchinda
-  I'm Prabda, or you can call me PrABpY. I am an Artificial Intelligence Engineer.  <br>
-  Automation Robotics and Intelligence Systems <br>
-  Engineering KKU
+<h1 align="center">Hi 👋, I'm Prabda Rueangchinda</h1>
+<h3 align="center">Artificial Intelligence Engineer.</h3>
+<h3 align="center">Automation Robotics and Intelligence Systems</h3>
+
+<p align="center">
+  <img src="https://github.com/Matrix278/Matrix278/raw/output/ocean.gif" alt="snake">
+</p>
 
   ### EXPERIENCE
   *	PLC Competition 2021 Training and competition in using PLC from Mitsubishi Company. 
@@ -16,6 +19,12 @@
   *	I completed a machine learning engineering course offered by the Faculty of Engineering at Khon Kean University.
   *	PLC Training by Mitsubishi.
 
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/prabda-rueangjinda-917560341/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="martin-sidorov" height="30" width="40" /></a>
+  <a href="facebook.com/conix.lp/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nitram278" height="30" width="40" /></a>
+</p>
 
 
 
