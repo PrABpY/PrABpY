@@ -7,7 +7,7 @@
   *	AIEI X Lotus's Hackathon 2022 Application To meet customers' needs when using the service.
   *	Toyota Tsusho Nexty 2022 Training in car control system design and use of Simulink MATLAB.
   *	Machine Learning Engineering Training in using algorithms in machine learning and data management.
-  * Internship Robot Phoenix China Working in the controller testing position, the robotic arm control system (4 months)
+  * Internship Robot Phoenix China Working in the controller testing position, the robotic arm control system
 
   ### CERTIFICATIONS
   *	Application Award AIEI X Lotus's Hackathon.
