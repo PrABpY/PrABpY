@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Prabda Rueangchinda</h1>
+<h1 align="center">Prabda Rueangchinda</h1>
 <h3 align="center">Artificial Intelligence Engineer.</h3>
 <h3 align="center">Automation Robotics and Intelligence Systems</h3>
 
