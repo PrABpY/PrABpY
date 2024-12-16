@@ -3,17 +3,18 @@
 <h3 align="center">Automation Robotics and Intelligence Systems</h3>
 
   ### EXPERIENCE
-  *	PLC Competition 2021 Training and competition in using PLC from Mitsubishi Company. 
-  *	AIEI X Lotus's Hackathon 2022 Application To meet customers' needs when using the service.
-  *	Toyota Tsusho Nexty 2022 Training in car control system design and use of Simulink MATLAB.
-  *	Machine Learning Engineering Training in using algorithms in machine learning and data management.
-  * Internship Robot Phoenix China Working in the controller testing position, the robotic arm control system
+  *	**PLC Competition 2021** Trained and competed in using PLC from Mitsubishi Company
+  *	**AIEI X Lotus's Hackathon 2022** Invented a promotion management system for clients using AI
+  *	**Toyota Tsusho Nexty 2022** Trained in car control system design and usage of Simulink MATLAB
+  *	**Machine Learning for Engineering** Trained in the use of algorithms in machine learning and data management
+  * **Cooperative Education at Robot Phoenix China** Working in the controller testing position and the robotic arm control system
 
   ### CERTIFICATIONS
-  *	Application Award AIEI X Lotus's Hackathon.
-  *	Invention Award Gear Mordindang.
-  *	I completed a machine learning engineering course offered by the Faculty of Engineering at Khon Kean University.
-  *	PLC Training by Mitsubishi.
+  *	Application Award **AIEI X Lotus's Hackathon**
+  *	Invention Award **Gear Mordindang**
+  *	Completed **Machine Learning Engineering** Course offered by the Faculty of Engineering at Khon Kean University
+  *	PLC Training by **Mitsubishi**
+
 
 
 <h3 align="center">Connect with me:</h3>
