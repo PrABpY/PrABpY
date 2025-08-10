@@ -64,10 +64,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PrABpY&theme=tokyo-night" />
 </p>
 
-
-### ⏱️ Weekly coding (Wakatime)
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=PrABpY&theme=tokyonight">
-
 ---
 
 ## 🔗 Connect
