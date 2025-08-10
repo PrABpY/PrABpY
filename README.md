@@ -1,45 +1,95 @@
-<h1 align="center">Prabda Rueangchinda</h1>
-<h3 align="center">Artificial Intelligence Engineer.</h3>
-<h3 align="center">Automation Robotics and Intelligence Systems</h3>
+<!-- PROFILE README -->
 
-  ### EXPERIENCE
-  *	**PLC Competition 2021** Trained and competed in using PLC from Mitsubishi Company
-  *	**AIEI X Lotus's Hackathon 2022** Invented a promotion management system for clients using AI
-  *	**Toyota Tsusho Nexty 2022** Trained in car control system design and usage of Simulink MATLAB
-  *	**Machine Learning for Engineering** Trained in the use of algorithms in machine learning and data management
-  * **Cooperative Education at Robot Phoenix China** Working in the controller testing position and the robotic arm control system
+<h1 align="center">Hi 👋, I'm Prabda Rueangchinda (PrABpY)</h1>
+<h3 align="center">Artificial Intelligence Engineer · Automation Robotics and Intelligence Systems</h3>
 
-  ### CERTIFICATIONS
-  *	Application Award **AIEI X Lotus's Hackathon**
-  *	Invention Award **Gear Mordindang**
-  *	Completed **Machine Learning Engineering** Course offered by the Faculty of Engineering at Khon Kean University
-  *	PLC Training by **Mitsubishi**
-
-
-
-<h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/prabda-rueangjinda-917560341/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="martin-sidorov" height="30" width="40" /></a>
-  <a href="facebook.com/conix.lp/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nitram278" height="30" width="40" /></a>
+  <img src="https://komarev.com/ghpvc/?username=PrABpY&color=0e75b6&style=flat" alt="views" />
+  <img src="https://img.shields.io/github/followers/PrABpY?style=social" alt="followers"/>
+  <img src="https://img.shields.io/github/stars/PrABpY?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="stars"/>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="coding"/>
+</p>
+
+---
+
+## 👨‍💻 About
+- ⚙️ Focus: **AI/ML, Robotics, Controller Testing**
+- 🧪 Interests: **Computer Vision, LLM Apps, Automation**
+- 🌎 Based in: **Thailand**
+- 📫 Reach me: **prabda@hugcode.co.th**
+
+---
+
+## 🧰 Tech Stack
+<p>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/TensorFlow-ff6f00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MATLAB-ff8000?style=for-the-badge&logo=Mathworks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
+
+---
+
+## 🏆 Highlights
+- PLC Competition (Mitsubishi) · AIEI x Lotus’s Hackathon Award  
+- Toyota Tsusho Nexty (car control & Simulink)  
+- ML for Engineering (KMIT/KU course), PLC training (Mitsubishi)  
+- Co-op: Robot Phoenix (controller testing & robotic arm control)
+
+---
+
+## 📊 GitHub Status
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=PrABpY&show_icons=true&theme=tokyonight&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrABpY&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=PrABpY&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=PrABpY&theme=onedark&no-frame=true&row=1&column=6" />
 </p>
 
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PrABpY&theme=tokyo-night" />
+</p>
 
 
+### ⏱️ Weekly coding (Wakatime)
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=PrABpY&theme=tokyonight">
 
+---
 
+## 🔗 Connect
+<p>
+  <a href="https://www.linkedin.com/in/prabda-rueangchinda-917560341/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:prabda.rueangchinda@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-333?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-<!--
-**PrABpY/PrABpY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📂 Pinned Projects
+- 🔬 **Face Similarity Search API (FastAPI · InsightFace · VPS)**
+- 🤖 **People Re-ID Counter (YOLOv8 + ReID + Line OA)**
+- 📈 **Crypto LSTM Backtester (15m stack, TP/SL, RR, CSV Logs)**
+- 🩺 **Medical Image Tools (GBM thickness via TEM)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PrABpY/PrABpY/output/snake.svg" alt="snake"/>
+</p>
