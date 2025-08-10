@@ -90,6 +90,3 @@
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/PrABpY/PrABpY/output/snake.svg" alt="snake"/>
-</p>
