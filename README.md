@@ -1,6 +1,6 @@
 <!-- PROFILE README -->
 
-<h1 align="center">Hi 👋, I'm Prabda Rueangchinda (PrABpY)</h1>
+<h1 align="center">Prabda Rueangchinda (PrABpY)</h1>
 <h3 align="center">Artificial Intelligence Engineer · Automation Robotics and Intelligence Systems</h3>
 
 <p align="center">
